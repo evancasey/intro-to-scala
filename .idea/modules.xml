@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro.iml" filepath="$PROJECT_DIR$/.idea/modules/intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro-build.iml" filepath="$PROJECT_DIR$/.idea/modules/intro-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinder-bandits.iml" filepath="$PROJECT_DIR$/.idea/modules/tinder-bandits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tinder-bandits-build.iml" filepath="$PROJECT_DIR$/.idea/modules/tinder-bandits-build.iml" />
+    </modules>
+  </component>
+</project>
